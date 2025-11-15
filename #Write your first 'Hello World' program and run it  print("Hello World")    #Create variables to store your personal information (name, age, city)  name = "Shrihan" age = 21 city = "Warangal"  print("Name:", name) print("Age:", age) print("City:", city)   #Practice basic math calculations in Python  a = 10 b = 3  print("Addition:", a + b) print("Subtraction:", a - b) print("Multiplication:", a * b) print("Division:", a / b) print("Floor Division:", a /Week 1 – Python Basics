@@ -1,0 +1,53 @@
+#Write your first 'Hello World' program and run it
+
+print("Hello World")
+
+
+
+#Create variables to store your personal information (name, age, city)
+
+name = "Shrihan"
+age = 21
+city = "Warangal"
+
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
+
+
+#Practice basic math calculations in Python
+
+a = 10
+b = 3
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
+print("Floor Division:", a // b)
+print("Modulus:", a % b)
+print("Power:", a ** b)
+
+
+#Create a list of your favorite foods and learn to access them
+
+favorite_foods = ["Biryani", "Pizza", "Ice Cream", "Pasta"]
+
+print("Full List:", favorite_foods)
+print("First Item:", favorite_foods[0])
+print("Last Item:", favorite_foods[-1])
+print("First Two Foods:", favorite_foods[:2])
+
+
+#Build a simple bio-data program that displays your information
+
+name = "Shrihan"
+age = 21
+city = "Warangal"
+skills = ["Python", "SQL", "Data Science"]
+
+print("----- Bio Data -----")
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
+print("Skills:", skills)
